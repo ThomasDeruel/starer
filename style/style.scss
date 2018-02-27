@@ -1,0 +1,8 @@
+@import "./global/reset"; /* ./global/_reset.scss */
+@import "./global/variables"; /* ./global/_variable.scss */
+
+// import Mixins
+@import "./mixins/reponsive"; /* ./mixin/_responsive.scss */
+
+// import Components
+@import "./components/header";
